@@ -1,0 +1,6 @@
+E:\Устрой погром(githubbed)\RandomStringGeneration\RandomStringGeneration\bin\Release\RandomStringGeneration.dll
+E:\Устрой погром(githubbed)\RandomStringGeneration\RandomStringGeneration\bin\Release\RandomStringGeneration.pdb
+E:\Устрой погром(githubbed)\RandomStringGeneration\RandomStringGeneration\obj\Release\RandomStringGeneration.csprojAssemblyReference.cache
+E:\Устрой погром(githubbed)\RandomStringGeneration\RandomStringGeneration\obj\Release\RandomStringGeneration.csproj.CoreCompileInputs.cache
+E:\Устрой погром(githubbed)\RandomStringGeneration\RandomStringGeneration\obj\Release\RandomStringGeneration.dll
+E:\Устрой погром(githubbed)\RandomStringGeneration\RandomStringGeneration\obj\Release\RandomStringGeneration.pdb
